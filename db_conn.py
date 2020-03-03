@@ -2,7 +2,7 @@ import pyodbc
 
 
 class ConexionDB:
-    def __init__(self,server='10.8.65.2',database='PRUEBAS',usuario='sa',password='servidor'):
+    def __init__(self,server='xxxx',database='xxxx',usuario='xxx',password='xxxxx'):
         self.server = server
         self.database = database
         self.usuario = usuario
